@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VulcanDthGrip
-- 👀 I’m interested in buildiong API's
+- 👀 I’m interested in building API's
 - 🌱 I’m currently learning python, and full-stack web development
 - 📫 How to reach me ...
 
