@@ -1,3 +1,4 @@
+console.log('Hi there');
 - 👋 Hi, I’m @VulcanDthGrip
 - 👀 I’m interested in building API's
 - 🌱 I’m currently learning python, and full-stack web development
