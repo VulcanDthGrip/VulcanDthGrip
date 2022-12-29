@@ -1,7 +1,7 @@
 console.log('Hello there')
 
 - 👋 Hi, I’m @VulcanDthGrip
-- 👀 I’m interested in building API's and becoming a back-end and cloud developer
+- 👀 I’m interested in building API's and becoming a back-end/cloud developer
 - 🌱 I’m currently learning python, and full-stack web development
 - 📫 How to reach me ... saltwaterlou@yahoo.com
 
