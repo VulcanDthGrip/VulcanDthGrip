@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. API Technical Writer. Technical Product Analyst
 ----------------------------------------------------------
 
-I'm a full-stack web developer student in progress, attending a FS bootcamp through SMU. I have been in technology for many years, working on networking, hardware, and software. One of my favorite experiences was being an computer/electronics technician for NASA in support of the Space Shuttle and Space Station (ISS) programs, and next generation space vehicles. I am currently working in fintech and my goal is to develop API's and cloud-based backends specific to the payments industry. I'm a techie to the bone and love learning new technologies.
+I'm a full-stack web developer student in progress, attending a FS bootcamp through SMU. I have been in technology for many years, working on networking, hardware, and software. One of my favorite experiences was being an computer/electronics technician for NASA in support of the Space Shuttle, Space Station (ISS) programs, and next generation space vehicles. I am currently working in fintech and my goal is to develop API's and cloud-based backends specific to the payments industry. I'm a techie to the bone and love learning new technologies.
 
 -LLAP
 
