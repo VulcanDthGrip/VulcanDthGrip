@@ -6,7 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. API Technical Writer. Technical Product Analyst
 ----------------------------------------------------------
 
-I'm currently a full-stack web developer student in progress, attending a FS bootcamp through SMU. I have been in technology for many years, working in networking, hardware, and software. I worked for NASA for many years in support of the Space Shuttle and Space Station (ISS) programs. I am currently working in fintech and my goal is to develop API's specific to the payments industry.
+I'm currently a full-stack web developer student in progress, attending a FS bootcamp through SMU. I have been in technology for many years, working in networking, hardware, and software. I worked for NASA for many years in support of the Space Shuttle and Space Station (ISS) programs. I am currently working in fintech and my goal is to develop API's specific to the payments industry. I'm a techie to the bone and love learning new technologies.
+
+-LLAP
 
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [mr.luisayala@yahoo.com](mailto:mr.luisayala@yahoo.com)
