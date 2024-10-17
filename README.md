@@ -3,7 +3,7 @@ console.log('Welcome')
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Ayala
 ==================================================================================================================================
 
-Developer. API Technical Writer. Technical Product Analyst
+Developer. Data Analytics -  Technical Product Analyst
 ----------------------------------------------------------
 
 I'm a full-stack developer student, attending a FS bootcamp through SMU. I have been in technology for many years, working on networking, hardware, and software. One of my favorite experiences was being an computer/electronics technician for NASA in support of the Space Shuttle, Space Station (ISS) programs, and next generation space vehicles. I am currently working in fintech and my goal is to develop API's and cloud-based backends specific to the payments industry.  I'm also working in data analytics and reporting and learning python to program is next on my list. I'm a techie to the bone and love learning new technologies.
